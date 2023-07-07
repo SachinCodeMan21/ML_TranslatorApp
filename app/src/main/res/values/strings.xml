@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ML Translator App</string>
+    <string name="downloadLanguageModel">Downloading Language model</string>
+    <string name="translating">Translating.....</string>
+</resources>
